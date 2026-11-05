@@ -27,6 +27,11 @@ button {
   border-radius: 4px;
   border: none;
   color: white;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #fd5748;
 }
 
 #menu-text {
